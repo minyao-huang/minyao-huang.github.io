@@ -13,6 +13,6 @@ My research interests are in behavioral finance, risk management, and AI+finance
 
 If you have any academic problems or seeking any form of cooperation, please feel free to email me at hmy_2002@csu.edu.cn 😃
 
-Or you can contact me through [Wechat](../image/wechat.jpg).
+Or you can contact me through [Wechat](../image/wechat.png).
 
 I am looking for a Ph.D. position in relative area.
