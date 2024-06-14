@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "title: "Teaching assistant experience 2"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Investment Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Sichuan Agricultural University, College of Economics"
 date: 2022-01-01
