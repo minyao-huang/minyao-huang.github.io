@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Accounting Course  "
 permalink: /teaching/2021-spring-teaching-1
 venue: "Sichuan Agricultural University, Faculty of Economics"
 date: 2021-01-01
