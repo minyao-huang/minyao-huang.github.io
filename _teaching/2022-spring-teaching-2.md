@@ -9,6 +9,7 @@ location: "Chengdu, China"
 ---
 
 Assisted the course instructor in conducting laboratory classes and helped fellow students resolve challenges they encountered in their studies. 
+
 Received the highest evaluation.
 
 
