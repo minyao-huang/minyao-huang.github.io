@@ -9,6 +9,7 @@ location: "Chengdu, China"
 ---
 
 Served as a teaching assistant, offering post-class consultations to students and delivering comprehensive feedback to the faculty members. 
+
 Recognized with the highest evaluation for my performance.
 
 
