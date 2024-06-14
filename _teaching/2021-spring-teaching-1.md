@@ -3,7 +3,7 @@ title: "Teaching assistant experience"
 collection: teaching
 type: "Undergraduate Accounting Course  "
 permalink: /teaching/2021-spring-teaching-1
-venue: "Sichuan Agricultural University, Faculty of Economics"
+venue: "Sichuan Agricultural University, College of Economics"
 date: 2021-01-01
 location: "Chengdu, China"
 ---
