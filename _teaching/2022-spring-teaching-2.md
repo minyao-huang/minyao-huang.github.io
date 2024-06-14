@@ -1,5 +1,5 @@
 ---
-title: "title: "Teaching assistant experience 2"
+title: "Teaching assistant experience 2"
 collection: teaching
 type: "Undergraduate Investment Course"
 permalink: /teaching/2022-spring-teaching-1
