@@ -26,33 +26,33 @@ Bachelor of Investment, 2023
   * Outstanding University Graduate; Outstanding Student Scholarship (1%)
   * CFA Institute Research Challenge China Region Third Place
 
-Research experience
-======
+#Research experience
+#======
 #* Spring 2024: Academic Pages Collaborator
 #* Github University
 #* Duties includes: Updates and improvements to template
 # * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+#  * Github University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
 * **Programming:** Stata, Python, R, Lingo
 * **Skills:** Marcosoft Office, SPSS, Eviews, Git, etc.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Internship experience
 ======
