@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can find my CV here: [Minyao Huang's Curriculum Vitae](../assets/Minyao_Huang_CV.pdf.pdf).
+
 Education
 ======
 * Central South University (985) , Changsha, China
